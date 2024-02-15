@@ -1,0 +1,16 @@
+{
+  "name": "qr_code",
+  "version": "1.0.0",
+  "description": "To generate a qr code whenver user inserts a link",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhushan Kothawade",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.12",
+    "qr-image": "^3.2.0"
+  }
+}
